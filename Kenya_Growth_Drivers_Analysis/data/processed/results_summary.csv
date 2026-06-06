@@ -1,0 +1,5 @@
+Variable,Expected Effect,Observed Effect,Statistically Significant
+Investment,Positive,Positive,Yes
+Inflation,Negative,Negative,Yes
+Government Expenditure,Positive,Positive,No
+Unemployment,Negative,Positive,No
